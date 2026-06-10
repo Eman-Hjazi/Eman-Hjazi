@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
-#### 🎨 Frontend Basics (Familiar)
+#### 🎨Frontend Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
@@ -49,4 +49,4 @@
 ### 📁 Featured Projects
 > 👇 Check out some of my core backend repositories:
 
-* 🚀 **[Wasla Platform](https://github.com/saadyasser/wasla-app)** - A freelancing connection marketplace developed in a team environment, where I personally owned and engineered the entire backend architecture, database design, and RESTful APIs using Laravel.
+* 🚀 **[Wasla Platform](https://github.com/Eman-Hjazi/wasla-app)** - A freelancing connection marketplace developed in a team environment, where I personally owned and engineered the entire backend architecture, database design, and RESTful APIs using Laravel.
